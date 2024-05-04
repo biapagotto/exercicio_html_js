@@ -1,0 +1,20 @@
+.success-message {
+    background-color: #03f172;
+    padding: 16px;
+    color: #fff;
+    display: none;
+}
+
+.error-message {
+    font-size: 12px;
+    padding: 8px;
+    background-color: #cb0000;
+    color: #fff;
+    margin-bottom: 8px;
+    display: none;
+}
+
+input.error {
+    color: #cb0000;
+    outline-color: #cb0000;
+} 
